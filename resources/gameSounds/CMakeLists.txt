@@ -1,0 +1,6 @@
+configure_file ("MenuSound.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GameSound.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Teleport.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("mouseClick.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Orc.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("keyPick.wav" ${CMAKE_BINARY_DIR} COPYONLY)

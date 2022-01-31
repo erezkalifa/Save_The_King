@@ -1,0 +1,5 @@
+#include "King.h"
+#include "Mage.h"
+#include "Midget.h"
+#include "Thief.h"
+#include "Warrior.h"
